@@ -5,6 +5,8 @@
 
 记录饮品制作的比例流程等，便于自己记录
 
+可PR提交你喜欢喝的饮品
+
 ## Drinks List
 ### 咖啡
 - [单人份手冲冰咖啡](https://github.com/timwhitez/Cafe/blob/main/drinks/%E5%8D%95%E4%BA%BA%E4%BB%BD%E6%89%8B%E5%86%B2%E5%86%B0%E5%92%96%E5%95%A1.md)
