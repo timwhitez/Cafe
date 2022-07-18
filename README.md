@@ -26,3 +26,6 @@ Pull requests 提交你喜欢喝的饮品
 
 ## Reference
 部分做法来自b站
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=timwhitez/Cafe&type=Date)](https://star-history.com/#timwhitez/Cafe&Date)
